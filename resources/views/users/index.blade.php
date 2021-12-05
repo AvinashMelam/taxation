@@ -12,7 +12,7 @@
 							<div class="col-xl-7 col-lg-8">
 								<div class="banner__single__content">
 									<h1>WORRIED
-										<span class="color--theme">ABOUT TAX?</span> WE ARE EXPERT IN
+										<span class="color--theme">ABOUT </span> WE ARE EXPERT IN
 										<span class="color--theme">TAX</span> SOLUTIONS</h1>
 									<a href="#" class="cr-btn">
 										<span>Contact Now</span>
